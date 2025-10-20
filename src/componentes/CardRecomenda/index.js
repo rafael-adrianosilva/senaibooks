@@ -21,6 +21,7 @@ const Botao = styled.button`
     padding: 10px 0;
     border: none;
     font-weight: 900;
+    width: 100%;
     display: block;
     text-align: center;
 
